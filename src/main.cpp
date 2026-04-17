@@ -24,7 +24,7 @@ static Camera2D cam;
 //==============================================================================
 
 GAME_API void game_configure(GameConfig* config) {
-  config->title         = "My Game";
+  config->title         = "Nomad";
   config->window_width  = 800;
   config->window_height = 600;
 }
